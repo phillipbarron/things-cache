@@ -1,0 +1,11 @@
+{
+  "name": "things-cache",
+  "version": "1.0.0",
+  "description": "express cache for things api",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "author": "BBC",
+  "license": "ISC"
+}
