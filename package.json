@@ -9,6 +9,7 @@
   "author": "BBC",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "memory-cache": "^0.2.0"
   }
 }
